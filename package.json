@@ -6,7 +6,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel",
+    "parcel": "parcel",
     "build": "parcel build"
   },
   "keywords": [],
