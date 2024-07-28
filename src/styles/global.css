@@ -29,6 +29,9 @@ button {
     500 1rem/1.5 var(--f-base),
     sans-serif;
 }
+html {
+  zoom: 0.5;
+}
 
 h1,
 h2 {
